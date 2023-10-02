@@ -5,7 +5,7 @@ I am a professional **Frontend developer** with expertise in **JavaScript, TypeS
 ## Technologies & Tools
 - HTML | CSS
 - SASS (SCSS)
-- Bootstrap 5
+- AntDesign | Bootstrap 5
 - JavaScript
 - TypeScript
 - React (FC)
