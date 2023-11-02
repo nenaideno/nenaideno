@@ -22,7 +22,7 @@ I am a professional **Frontend developer** with expertise in **JavaScript, TypeS
 
 - [**HowLong2Bot**](https://github.com/nenaideno/HowLong2Bot) - A bot for the streaming service [**Twitch.tv**](https://www.twitch.tv/) that allows you to find out the playtime of a game specified in the stream's category. It utilizes the service [**howlongtobeat.com**](https://howlongtobeat.com/) for this purpose.
 
-- [**Gimme your password**](https://github.com/nenaideno/gimmeyourpassword) - A simple mini-game in which you need to create a password that meets every criterion. At first, it's easy, but can you make it to the end?...
+- [**Gimme your password**](https://github.com/nenaideno/gimmeyourpassword) - A simple mini-game in which you need to create a password that meets every criterion. At first, it's easy, but can you make it to the end?... (Currently available only in Russian.)
 
 - [**DotaRateTracker**](https://github.com/nenaideno/DotaRateTracker) - An experiment testing the capabilities of [**ChatGPT**](https://chat.openai.com/) in generating working code. This repository is the result of the research and work of the neural network.
 
