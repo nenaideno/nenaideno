@@ -16,6 +16,8 @@ I am a professional **Frontend developer** with expertise in **JavaScript, TypeS
 
 ## Examples of my projects 📋
 
+- [**Autoinnovatic**](https://autoinnovatic.ru/) - A project that is a social network for people who want to show the world their idea and find associates to bring it to life. (Currently - only in Russian.)
+
 - [**SimpleFeedBack**](https://github.com/nenaideno/SimpleFeedBack) - A service that enables the quick generation of feedback forms with custom design based on specific templates.
 
 - [**SimpleToDo**](https://github.com/nenaideno/SimpleToDo) - A simple web application for managing to-do items. It allows users to create, read, update, and delete to-do items in a list
